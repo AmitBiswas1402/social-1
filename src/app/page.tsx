@@ -47,8 +47,18 @@ const page = () => {
                       <div>1 hour ago</div>
                     </div>
                     <div className="text-white text-sm">
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos natus, velit libero delectus, molestias cum, fugiat optio architecto tenetur provident obcaecati nobis veritatis eveniet adipisci dicta. Corrupti id nobis maiores ad sunt dolorum nemo quod necessitatibus error quaerat laudantium temporibus esse ipsa expedita molestias, ea reprehenderit fugiat eaque veniam voluptas?</div>
-                    <div></div>
+                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos natus, velit libero delectus, molestias cum, fugiat optio architecto tenetur provident obcaecati nobis veritatis eveniet adipisci dicta. Corrupti id nobis maiores ad sunt dolorum nemo quod necessitatibus error quaerat laudantium temporibus esse ipsa expedita molestias, ea reprehenderit fugiat eaque veniam voluptas?
+                    </div>
+                    <div className="bg-slate-400 aspect-square w-full h-96 rounded-xl">
+                      
+                    </div>
+                    <div className="flex items-center space-x-2 w-full">
+                      <div>comment</div>
+                      <div>repots</div>
+                      <div>likes</div>
+                      <div>impression</div>
+                      <div>share</div>
+                    </div>
                   </div>
                 </div>
               ))
