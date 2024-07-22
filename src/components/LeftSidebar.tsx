@@ -39,6 +39,8 @@ const NAVIGATION_ITEMS = [
 const LeftSidebar = () => {
   return (
     <section className="fixed w-72 flex text-lg flex-col h-screen space-y-4 my-4 pl-40">
+       {/* w-[275px] flex flex-col items-stretch h-screen px-6
+       fixed w-72 flex text-lg flex-col h-screen space-y-4 my-4 pl-40 */}
       <Link href={"/"} className="p-2 text-2xl">
         <RiTwitterXFill className="h-8 w-8" />
       </Link>

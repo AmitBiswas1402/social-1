@@ -21,7 +21,7 @@ const page = () => {
               <input 
               id='searchBox'
               type="text" 
-              placeholder="Search" className="outline-none bg-transparent border-none w-full h-full rounded-xl py-4 px-8" />
+              placeholder="Search" className="outline-none bg-slate-800 border-none w-full h-full rounded-3xl py-4 px-8 mt-2" />
             </div>
           </div>
           <div></div>
