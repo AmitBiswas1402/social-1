@@ -21,7 +21,7 @@ const MainComponent = () => {
               <div className="w-full flex justify-between items-center">
                 <div></div>
                 <div>
-                  <button className="rounded-full w-full m-4 bg-primary px-4 py-2 text-lg text-center hover:bg-opacity-70 transition duration-200">
+                  <button className="rounded-full w-full mr-4 mt-4 bg-primary px-4 py-2 text-lg text-center hover:bg-opacity-70 transition duration-200">
                     Post 
                   </button>
                 </div>
