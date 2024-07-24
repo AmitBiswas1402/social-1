@@ -17,7 +17,7 @@ const Rightsidebar = () => {
             id="searchBox"
             type="text"
             placeholder="   Search in X"
-            className="outline-none bg-neutral-900/90 focus:border-primary border-2 w-full h-10 rounded-3xl py-4 px-8 mt-2"
+            className="outline-none bg-neutral-900/90 focus:border-[#008AD8] border-2 w-full h-10 rounded-3xl py-4 px-8 mt-2"
           />
         </div>
       </div>

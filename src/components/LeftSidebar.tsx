@@ -56,11 +56,11 @@ const LeftSidebar = () => {
           <div>{item.title}</div>
         </Link>
       ))}
-      <button className="w-60 rounded-full bg-primary px-6 py-4 text-lg text-center hover:bg-opacity-70">
+      <button className="w-60 rounded-full bg-[#008AD8] px-6 py-4 text-lg text-center hover:bg-opacity-70">
         Post
       </button>
       <button className="w-60 rounded-full flex items-center space-x-2 px-6 py-4 text-lg text-center hover:bg-slate-700">
-        <div className="rounded-full bg-primary w-10 h-10 text-center">
+        <div className="rounded-full bg-[#008AD8] w-10 h-10 text-center">
           <FaUser className="mt-2 mb-2 ml-3" />
         </div>
         <div className="items-center">
